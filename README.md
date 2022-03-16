@@ -5,3 +5,4 @@ MineSWR.zip - Client w Unreal Engine do gry Saper, łączący się z serwerem za
 MineSWRSource - kod źródłowy C++ do projektu MineSWR  
 Labirynt - Generator labiryntu napisany w C++, kompletny zzipowany projekt  
 LabSource - kod źródłowy C++ projektu labirynt  
+Wizualizcje - folder zawierający 2 przykładowe wizualizcje ze mojego "smoczego" projektu
