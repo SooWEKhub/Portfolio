@@ -8,3 +8,5 @@ LabSource - kod źródłowy C++ projektu labirynt
 Wizualizcje - folder zawierający 2 przykładowe wizualizcje ze mojego "smoczego" projektu
 
 https://www.coregames.com/games/d5ade5/nightowl-labirynth - link do projektu wykonanego na platformie Core od Manticore Game, zmodyfikowany silnik UE, skrypty w języku lua
+
+SWPR.xlsm - Saper napisany w VBA na Excela :)
