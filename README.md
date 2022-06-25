@@ -1,8 +1,8 @@
 # Portfolio
 
 dungeon.zip - build gry. Generowanie labiryntu w c++, pozostała część napisana w blueprintach.
-https://www.coregames.com/games/d5ade5/nightowl-labirynth - link do projektu wykonanego na platformie Core od Manticore Games, zmodyfikowany silnik UE, skrypty w języku lua
-MineSWR.zip - Client w Unreal Engine do gry Saper, łączący się z serwerem za pomocą Websockets. Zadanie wykonane na potrzeby innej rekrutacji. Kompletny zzipowany projekt.  
+https://www.coregames.com/games/d5ade5/nightowl-labirynth - link do projektu wykonanego na platformie Core od Manticore Games, zmodyfikowany silnik UE, skrypty w języku lua  
+MineSWR.zip - Client w Unreal Engine do gry Saper, łączący się z serwerem za pomocą Websockets (c++). Zadanie wykonane na potrzeby innej rekrutacji. Kompletny zzipowany projekt.  
 MineSWRSource - kod źródłowy C++ do projektu MineSWR  
 Labirynt - Generator labiryntu napisany w C++, kompletny zzipowany projekt  
 LabSource - kod źródłowy C++ projektu labirynt  
